@@ -1,0 +1,33 @@
+html {
+    font-family: Helvetica;
+}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../../resources/img/pattern.webp);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.author {
+    font-style: italic;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#product-1{
+    background-color: mediumspringgreen;
+}
+#product-2{
+    background-color: lightcoral;
+}
+#product-3{
+    background-color: skyblue;
+}
+.price {
+    font-weight: bold;
+    color: blue;
+}
